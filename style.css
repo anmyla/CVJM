@@ -56,9 +56,13 @@ img {float:right; margin-right:10px;}
 /* SECTION STYLE --- */
 
 section {
-        width: 70%;
-        aligh: left;
-}
+		width: 70%;
+                text-align: left;
+                margin-top: 10px;
+                margin-left: 25px;
+                padding-right: 20px;
+                float: left;
+	}
 
 /* ---SECTION STYLE END------ */
 
