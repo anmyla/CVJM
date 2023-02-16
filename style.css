@@ -58,6 +58,41 @@
 
 /* ---SECTION STYLE END------ */
 
+/* ----SHOP SECTION STYLE-----*/
+        .images {
+                text-align:center;
+        }
+
+        .images img {
+                width:100px;
+                height:100px;
+        }
+
+        .images div {
+                width:100px;
+                text-align:center;
+        }
+
+        .images div span {
+                display:block;
+        }
+
+        .margin_right {
+                 margin-right:50px;
+        }
+
+        .float {
+                float:left;
+        }
+
+        .clear {
+                 clear:both;
+                 height:0;
+                 width:0;
+        }
+
+/* ----SHOP SECTION STYLE END-----*/
+
 
 
 /* -----ASIDE STYLE------ */
