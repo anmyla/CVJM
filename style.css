@@ -1,1 +1,64 @@
 
+/* HEADER STYLE --- Viki */
+
+
+
+
+
+
+
+/* -----HEADER STYLE END------ */
+
+
+/* NAVIGATION BAR STYLE ---Myla */
+        .navbar {
+                background-color: #4e5a65;
+                width: 100%;
+                position: fixed;
+                padding-right: 40px;
+                right: 0;
+                top: 0;
+                }
+
+        .navbar a {
+                font-family:  Helvetica;
+                display: block;
+                color: #b5c9d5;
+                text-align: center;
+                padding: 5px 60px;
+                text-decoration: none;
+                float: right;
+                }
+
+        .navbar a:hover {
+                background: #748a9e;
+                color: #4e5a65;
+                }
+/* -----NAVIGATION BAR STYLE END------ */
+
+
+
+/* SECTION STYLE --- Viki und Cheda */
+
+
+
+
+
+
+/* -----SECTION STYLE END------ */
+
+
+
+/* -----ASIDE STYLE -nur wenn wir noch Zeit haben------ */
+
+/* ----------ASIDE STYLE ENDE ----------*/
+
+/* -----FOOTER STYLE -nur wenn wir noch Zeit haben------ */
+
+/* ----------FOOTER STYLE ENDE ----------*/
+
+
+
+
+
+
