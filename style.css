@@ -1,9 +1,13 @@
-
 /* HEADER STYLE --- Viki */
 
 	header .h1 {text-align:center;
 		color: #4e5a65;
 		background-color: #b5c9d5;}
+
+
+
+
+
 
 
 /* -----HEADER STYLE END------ */
@@ -35,10 +39,10 @@
                 }
 /* -----NAVIGATION BAR STYLE END------ */
 
-/* -----BODY STYLE  --- Viki und Cheda ------ */
+/* -----BODY STYLE END------ */
 
   body {
-  background-image: url("https://img.freepik.com/free-photo/top-view-camera-inside-case_23-2148019217.jpg?w=996&t=st=1676573901~exp=1676574501~hmac=312b953853538d83f765f1121179cbaf2ba26b39f49c2efab3ce12b3b90ee2dd");
+  background-image: url("");
   background-color: #cccccc;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -47,71 +51,52 @@
   opacity: 0.6;
   }
 
-
+/* BODY STYLE --- Viki und Cheda */
 img {float:right; margin-right:10px;}
 
-/*--------- BODY STYLE --------- */
+
 
 
 /* SECTION STYLE --- */
 
 section {
-		width: 50%;
-		padding-tp: 20px;
-                text-align: left;
-                margin-top: 10px;
-                margin-left: 25px;
-                padding-right: 20px;
-                float: left;
-	}
+        width: 75%;
+        padding-top: 10pxpx;
+        aligh: left;
+}
 
 /* ---SECTION STYLE END------ */
 
 
 
 /* ----SHOP SECTION STYLE-----*/
-        .images {
+        .items{
                 text-align:center;
-        }
-
-        .images img {
-                width:100px;
-                height:100px;
-        }
-
-        .images div {
-                width:100px;
-                text-align:center;
-        }
-
-        .images div span {
-                display:block;
-        }
-
-        .margin_right {
-                 margin-right:50px;
-        }
+                margin:50px auto;
+                }
 
 
-        .clear {
-                 clear:both;
-                 height:0;
-                 width:0;
-        }
+        .items figure   {
+                margin:0px 20px;
+                display:inline-block;
+                text-decoration:none;
+                color: #4e5a65;
+                }
 
 /* ----SHOP SECTION STYLE END-----*/
+
 
 
 
 /* -----ASIDE STYLE------ */
 
         aside {
-                width: 30%;
+                width: 20%;
                 text-align: left;
                 margin-top: 15px;
                 margin-left: 5px;
                 padding-left: 40px;
-                padding-right: 40px;
+                padding-right: 20px;
                 float: right;
                 }
 
@@ -139,12 +124,7 @@ section {
 
 
 
+
 /* -----FOOTER STYLE -nur wenn wir noch Zeit haben------ */
 
 /* ----------FOOTER STYLE ENDE ----------*/
-
-
-
-
-
-
