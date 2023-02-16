@@ -6,11 +6,6 @@
 		background-color: #b5c9d5;}
 
 
-
-
-
-
-
 /* -----HEADER STYLE END------ */
 
 
@@ -40,9 +35,9 @@
                 }
 /* -----NAVIGATION BAR STYLE END------ */
 
-/* -----BODY STYLE END------ */
+/* -----BODY STYLE  --- Viki und Cheda ------ */
 
-  section {
+  body {
   background-image: url("https://img.freepik.com/free-photo/top-view-camera-inside-case_23-2148019217.jpg?w=996&t=st=1676573901~exp=1676574501~hmac=312b953853538d83f765f1121179cbaf2ba26b39f49c2efab3ce12b3b90ee2dd");
   background-color: #cccccc;
   background-repeat: no-repeat;
@@ -52,13 +47,18 @@
   opacity: 0.6;
   }
 
-/* BODY STYLE --- Viki und Cheda */
+
 img {float:right; margin-right:10px;}
 
-
+/*--------- BODY STYLE --------- */
 
 
 /* SECTION STYLE --- */
+
+section {
+        width: 50%;
+        aligh: left;
+}
 
 /* ---SECTION STYLE END------ */
 
