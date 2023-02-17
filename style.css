@@ -1,14 +1,12 @@
 /* HEADER STYLE --- Viki */
 
-	header {text-align:center;
+        header {text-align:center;
                 color: #4e5a65;
                 background-color: #b5c9d5;
                 padding-top: 20px;
                 padding-bottom: 10px;
                 }
 
-
-/* -----HEADER STYLE END------ */
 
 
 /* NAVIGATION BAR STYLE ---Myla */
@@ -35,12 +33,12 @@
                 background: #748a9e;
                 color: #4e5a65;
                 }
-/* -----NAVIGATION BAR STYLE END------ */
+
 
 /* -----BODY STYLE END------ */
 
   body {
-  background-image: url("https://img.freepik.com/free-photo/top-view-camera-inside-case_23-2148019217.jpg?w=996&t=st=1676573901~exp=1676574501~hmac=312b953853538d83f765f1121179cbaf2ba26b39f49c2efab3ce12b3b90ee2dd");
+  background-image: url("http://myla.at/wp-content/uploads/2023/02/bg.jpeg");
   background-color: #cccccc;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -48,10 +46,7 @@
   background-size: 1800px 1300px;
   }
 
-/* BODY STYLE --- Viki und Cheda */
 img {float:right; margin-right:10px;}
-
-
 
 
 /* SECTION STYLE --- */
@@ -62,7 +57,7 @@ section {
         aligh: left;
 }
 
-/* ---SECTION STYLE END------ */
+
 
 
 
@@ -80,9 +75,6 @@ section {
                 color: #4e5a65;
                 }
 
-/* ----SHOP SECTION STYLE END-----*/
-
-
 
 
 /* -----ASIDE STYLE------ */
@@ -98,30 +90,28 @@ section {
                 }
 
 
-/* ----------ASIDE STYLE ENDE ----------*/
-
+aside .sidelinks {background: white;}
 
 
 /* -----BUTTON STYLE------ */
 
-	.button {
- 		background-color: #4e5a65;
-  		border: none;
-  		color: white;
-  		padding: 15px 32px;
-  		text-align: center;
-  		text-decoration: none;
-  		display: inline-block;
-  		font-size: 16px;
-  		margin: 4px 2px;
- 		cursor: pointer;
+        button {
+                background-color: #4e5a65;
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                margin: 4px 2px;
+                cursor: pointer;
 }
-
-/* ----------BUTTON STYLE ENDE ----------*/
 
 
 
 
 /* -----FOOTER STYLE -nur wenn wir noch Zeit haben------ */
 
-/* ----------FOOTER STYLE ENDE ----------*/
+
+
